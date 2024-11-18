@@ -1,0 +1,22 @@
+model:
+  features:
+  - 16
+  - 16
+  - 16
+optimizer:
+  type: sgd
+  learning_rate: 0.001
+  momentum: 0.9
+train:
+  epochs: 100000
+data:
+  y0:
+  - 2.0943952
+  - 0.0
+  t0: 0
+  t_n: 20
+  h: 0.01
+  b: 0.3
+  m: 1.0
+  l: 1.0
+  g: 9.81

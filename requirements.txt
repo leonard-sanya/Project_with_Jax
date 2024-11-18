@@ -1,0 +1,6 @@
+jax
+jaxlib
+matplotlib.pyplot
+flax
+os
+hydra
